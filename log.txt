@@ -1,0 +1,7 @@
+Texto: Olá mundo! - Tradução: Hello World! - 08-04-22_12:35
+Texto: Olá mundo!  || Tradução: Bonjour le monde! - 08-04-22_12:35
+Texto: Ola  || Tradução: Ola - 08-04-22_12:36
+Texto: Olá || Tradução: Hi - 08-04-22_12:36
+Texto: Este é o primeiro projeto com o tradutor || Tradução: This is the first project with the translator - 08-04-22_12:38
+Texto: Olá, qual texto gostaria de traduzir? || Tradução: Hello, which text would you like to translate? || 08-04-22_12:38
+Texto: Hi || Tradução: Oi || 08-04-22_13:02
