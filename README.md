@@ -1,6 +1,6 @@
 # 💎 Curso OneBitCode Ruby Puro 💎
 
-# Introdução 🔰
+# 🔰 Introdução 🔰
 
 O curso baseou-se no ensino dos pricipais recurso da linguaguem em Ruby puro. 
 
